@@ -11,7 +11,7 @@
   
 - 🎶 In addition to coding and design, I also produce music. You can listen to some of my tracks on [Spotify](https://open.spotify.com/artist/2A8EtmQy0sHFQHB7VWHUkZ?si=drV28-ijTAOd94-_muhx1A) or other streaming plateforms
     
-- 👨‍💻 All of my projects are available at my [Linktree](https://elhaddaji.vercel.app/)  
+- 👨‍💻 All of my projects are available at my [Portfolio](https://elhaddaji.vercel.app/)  
 
 - 📫 Feel free to reach out to me via email at **elhaddaji.iliass@gmail.com**  
 
