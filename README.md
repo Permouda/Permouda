@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm EL HADDAJI Iliass</h1>  
 <h3 align="center">A multi-disciplinary creative with a passion for web development, graphic design, and music production from Morocco </h3>  
   
-- 🔭 I’m currently working on [SABA]([https://github.com/Permouda/SABA](https://saba-seven.vercel.app/)  
+- 🔭 I’m currently working on [SABA](https://saba-seven.vercel.app/)  
 
     
 - 🌱 I’m currently learning **Reactjs, Nextjs, 3D...**  
